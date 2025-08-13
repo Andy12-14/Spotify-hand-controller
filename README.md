@@ -68,7 +68,7 @@ Scroll Down: Hold up your Pinky finger only.
 #**VERSION  EN FRANCAIS**
 
 Contrôleur Spotify par gestes de la main
-Ce projet offre une manière unique d'interagir avec l'application de bureau Spotify en utilisant des gestes de la main capturés par votre webcam. En tirant parti de la vision par ordinateur, vous pouvez contrôler la lecture, le volume et la navigation sans jamais toucher votre souris ou votre clavier.
+Ce projet offre une manière unique d'interagir avec l'application de bureau Spotify en utilisant des gestes de la main capturés par votre webcam. En tirant parti de la computer vision, vous pouvez contrôler la lecture, le volume et la navigation sans jamais toucher votre souris ou votre clavier.
 
 Fonctionnalités
 Contrôle par gestes : Utilisez des signes de la main spécifiques pour contrôler diverses fonctions de Spotify.
@@ -130,3 +130,4 @@ Ce menu est pour faire défiler des listes comme les playlists ou les albums.
 Défiler vers le haut : Levez votre doigt index uniquement.
 
 Défiler vers le bas : Levez votre doigt auriculaire uniquement.
+
